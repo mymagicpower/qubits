@@ -9,8 +9,8 @@ if __name__ == "__main__":
 
     # 构建量子程序
     prog.insert(pq.RY(qvec[0], pi/3))
-    prog.insert(pq.Z(qvec[0]))
-    prog.insert(pq.RY(qvec[0], pi*4/3))
+    # prog.insert(pq.Z(qvec[0]))
+    prog.insert(pq.RY(qvec[0], pi*2/3))
 
     # 对量子程序进行概率测量
     result = pq.prob_run_dict(prog, qvec, -1)
