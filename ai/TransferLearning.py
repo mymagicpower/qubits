@@ -1,7 +1,5 @@
 """
 Quantum Classic Nerual Network Transfer Learning demo
-
-
 """
 
 import os
@@ -185,7 +183,7 @@ def data_select(train_num, test_num):
 to get cnn model parameters for transfer learning
 """
 
-train_size =50
+train_size = 50
 eval_size = 50
 EPOCHES = 10
 def classcal_cnn_model_making():
