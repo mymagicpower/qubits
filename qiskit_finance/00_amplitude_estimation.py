@@ -1,3 +1,9 @@
+# © Copyright IBM 2017, 2021.
+#
+# This code is licensed under the Apache License, Version 2.0. You may
+# obtain a copy of this license in the LICENSE.txt file in the root directory
+# of this source tree or at http://www.apache.org/licenses/LICENSE-2.0.
+
 import numpy as np
 from qiskit.circuit import QuantumCircuit
 import matplotlib.pyplot as plt

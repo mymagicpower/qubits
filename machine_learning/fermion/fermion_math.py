@@ -1,7 +1,10 @@
 from pyqpanda import *
 if __name__=="__main__":
-    p1 = FermionOperator()
-    p2 = FermionOperator({'1+ 0': 2,'3+ 2+ 1 0': 3})
-    p3 = FermionOperator('1+ 0', 2)
-    p4 = FermionOperator(2)
-    p5=p2
+    a = FermionOperator('1+ 0', 2)
+    b = FermionOperator('3+ 2', 3)
+    plus=a+b
+    minus=a-b
+    multiply=a*b
+    print("a + b = {}".format(plus))
+    print("a - b = {}".format(minus))
+    print("a * b = {}".format(multiply))
