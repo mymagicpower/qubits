@@ -6,7 +6,7 @@
 ### 量子计算系列教程：
 https://zhuanlan.zhihu.com/p/503483952
 
-#### circuit_weaver - 量子线路模拟器（开源项目） 
+#### qubits/circuit_weaver - 量子线路模拟器（开源项目） 
 - Circuit Weaver
 
 #### 1、tutorials - 量子计算【基础篇】
@@ -19,7 +19,7 @@ https://zhuanlan.zhihu.com/p/503483952
 - 附录1： 量子线路（本源量子版）
 
 
-#### 2、tutorials - 量子计算【算法篇】
+#### 2、qubits/tutorials - 量子计算【算法篇】
 - 第1章 Hadamard Test、SWAP Test   
 - 第2章 振幅放大   
 - 第3章 量子傅里叶变换   
@@ -30,3 +30,4 @@ https://zhuanlan.zhihu.com/p/503483952
 - 第8章 Grover算法及实现   
 - 附录1 量子算法编程例子(本源量子版）   
 - 附录2：重要公式与几何性质   
+  
