@@ -33,4 +33,4 @@ https://zhuanlan.zhihu.com/p/503483952
 - 合并 - quantum_sessions_2_algorithm.pdf     
 
 #### 3、qubits/tutorials - 量子计算【应用篇】  
-- 量子金融 quantum_sessions_finance.pdf
+- 量子金融 Qiskit[finance] 笔记 quantum_sessions_finance.pdf
