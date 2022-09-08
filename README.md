@@ -17,7 +17,7 @@ https://zhuanlan.zhihu.com/p/503483952
 - 第5章 量子测量
 - 第6章 量子线路（开源版）
 - 附录1： 量子线路（本源量子版）
-
+- 合并 - quantum_sessions_1_introduction.pdf      
 
 #### 2、qubits/tutorials - 量子计算【算法篇】
 - 第1章 Hadamard Test、SWAP Test   
@@ -30,4 +30,7 @@ https://zhuanlan.zhihu.com/p/503483952
 - 第8章 Grover算法及实现   
 - 附录1 量子算法编程例子(本源量子版）   
 - 附录2：重要公式与几何性质   
-  
+- 合并 - quantum_sessions_2_algorithm.pdf     
+
+#### 3、qubits/tutorials - 量子计算【应用篇】  
+- 量子金融 quantum_sessions_finance.pdf
