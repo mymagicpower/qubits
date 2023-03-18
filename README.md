@@ -1,5 +1,5 @@
 <div align="left">
-  <a href="http://qubits.top/">官网</a>
+  <a href="https://qubits.top/">官网</a>
 </div>  
 
 
@@ -20,3 +20,36 @@ https://zhuanlan.zhihu.com/p/503483952
 
 作者：Calvin    
 Mail: 179209347@qq.com
+
+
+
+#### 其它研究专题:
+
+
+
+#### 1. 人工智能加速器套件
+<div align="left">
+<img src="https://aias-home.oss-cn-beijing.aliyuncs.com/images/logo.png"  width = "150"  />
+</div>
+
+- 官网: https://www.aias.top/
+- Gitee:  https://gitee.com/mymagicpower/AIAS  
+- GitHub: https://github.com/mymagicpower/AIAS
+
+#### 2. AI + 生物医药
+<div align="left">
+<img src="https://bio-computing.oss-cn-shanghai.aliyuncs.com/images/logo.png"  width = "200"  />
+</div>
+
+- 官网: https://www.biocomputing.top/     
+- Gitee:  https://gitee.com/mymagicpower/bio-computing     
+- GitHub: https://github.com/mymagicpower/bio-computing     
+
+#### 3. AI 桌面工具集 - 简单易用的AI桌面工具
+<div align="left">
+<img src="https://aiart.oss-cn-shanghai.aliyuncs.com/images/logo.png"  width = "200"  />
+</div>
+
+- 官网: https://www.aiarts.top/           
+- Gitee:  https://gitee.com/mymagicpower/easy_AI_apps        
+- GitHub: https://github.com/mymagicpower/easy_AI_apps  
