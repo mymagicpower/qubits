@@ -7,8 +7,22 @@
 https://zhuanlan.zhihu.com/p/503483952
 
 
-#### qubits/circuit_weaver - 量子线路模拟器（开源项目） 
+#### 1. qubits/circuit_weaver - 量子线路模拟器（开源项目） 
 - Circuit Weaver
+
+
+#### 2. qubits/量子计算【量子金融】
+- 基于ibm qiskit 框架编写的 ppt 教程
+- 教程代码：quantum_qiskit_finance
+	
+
+
+#### 3. qubits/量子计算【编程篇】
+- 基于本源量子框架编写的 ppt 教程笔记
+- 教程代码：quantum_qpanda
+
+
+
 
 
 
